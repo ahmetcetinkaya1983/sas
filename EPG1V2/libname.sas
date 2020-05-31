@@ -1,1 +1,1 @@
-libname pg1 "folders/myfolders/EPG1V2";
+libname pg1 "/folders/myfolders/EPG1V2/data";
